@@ -80,19 +80,19 @@
 <div align="left">
     <ul>
         <li>
-            <a href="https://linkedin.com/in/lucasbelpiede" target="_blank">
+            <a href="https://linkedin.com/in/lucasbelpiede">
                 <img src="https://img.shields.io/badge/linkedin: lucasbelpiede-%2300ACEE.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
             </a>
         </li>
         <br>
         <li>
-            <a href="https://wa.me/5587988350714" target="_blank">
+            <a href="https://wa.me/5587988350714">
                 <img src="https://img.shields.io/badge/whatsapp: 5587988350714-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt=whatsapp style="margin-bottom: 5px;"/>
             </a>
         </li>
         <br>
         <li>
-            <a href="mailto:lucasferrazbelpiede01@hotmail.com" target="_blank">
+            <a href="mailto:lucasferrazbelpiede01@hotmail.com">
                 <img src="https://img.shields.io/badge/microsoft_outlook: lucasferrazbelpiede01-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt=outlook style="margin-bottom: 5px;"/>
             </a>
         </li>
