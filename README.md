@@ -9,9 +9,9 @@
     </a>
 </p>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **About me**
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"></picture> **About me**
 
-<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px></picture>
+<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250"></picture>
 
 - A passionate Front-end developer
 - Postgraduate diploma in Software engineering
@@ -21,17 +21,17 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Skills</b>
 
 <p align="center">
 
 - **Languages**:
 
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![SQL](https://img.shields.io/badge/sql-%2FDF84.svg?style=for-the-badge&logoColor=white)
+    ![SQL](https://img.shields.io/badge/sql-%2FDF84.svg?style=for-the-badge)
 
 <br>
 
@@ -49,8 +49,8 @@
 - **Softwares and tools**:
 
     ![MySQL](https://img.shields.io/badge/mysql-%2300F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![RESTful](https://img.shields.io/badge/restful-%2393C5.svg?style=for-the-badge&logoColor=white)
-    ![SEO](https://img.shields.io/badge/seo-%3CA046.svg?style=for-the-badge&logoColor=white)
+    ![RESTful](https://img.shields.io/badge/restful-%2393C5.svg?style=for-the-badge)
+    ![SEO](https://img.shields.io/badge/seo-%3CA046.svg?style=for-the-badge)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </p>
 
@@ -58,14 +58,14 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>GitHub stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>GitHub stats</b>
 
 <br>
 
 <div align="center">
     <a href="https://github.com/lucasbelpiede">
-        <img src="https://github-readme-stats.vercel.app/api?username=lucasbelpiede&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbelpiede&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasbelpiede&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=lucasbelpiede&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
     </a>
 </div>
 
@@ -73,7 +73,7 @@
 
 ---
 
-## <b>Let's connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+## <b>Let's connect..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
 
 <br>
 
@@ -81,13 +81,13 @@
     <ul>
         <li>
             <a href="https://linkedin.com/in/lucasbelpiede" target="_blank">
-                <img src="https://img.shields.io/badge/linkedin: lucasbelpiede-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+                <img src="https://img.shields.io/badge/linkedin: lucasbelpiede-%2300ACEE.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
             </a>
         </li>
         <br>
         <li>
             <a href="https://wa.me/5587988350714" target="_blank">
-                <img src="https://img.shields.io/badge/whatsapp: 5587988350714-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=whatsapp style="margin-bottom: 5px;"/>
+                <img src="https://img.shields.io/badge/whatsapp: 5587988350714-%25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt=whatsapp style="margin-bottom: 5px;"/>
             </a>
         </li>
         <br>
