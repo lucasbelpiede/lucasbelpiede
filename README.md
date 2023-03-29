@@ -37,6 +37,7 @@
 
 - **Front-end development**:
 
+    ![Salesforce](https://img.shields.io/badge/salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
     ![React.js](https://img.shields.io/badge/react.js-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     ![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
     ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
