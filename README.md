@@ -11,7 +11,7 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"></picture> **About me**
 
-- A passionate Front-end developer
+- A passionate Salesforce developer
 - Postgraduate diploma in Software engineering
 - Bachelor's degree in Computer science
 
@@ -25,33 +25,34 @@
 
 - **Languages**:
 
-    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-    ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![SQL](https://img.shields.io/badge/sql-%2FDF84.svg?style=for-the-badge)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![SQL](https://img.shields.io/badge/sql-%2FDF84.svg?style=for-the-badge)
 
 <br>
 
 - **Front-end development**:
 
-    ![Salesforce](https://img.shields.io/badge/salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
-    ![React.js](https://img.shields.io/badge/react.js-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-    ![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-    ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-    ![Redux](https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
-    ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-    ![Sass](https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white)
+  ![Salesforce](https://img.shields.io/badge/salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+  ![React.js](https://img.shields.io/badge/react.js-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+  ![Redux](https://img.shields.io/badge/redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Sass](https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white)
 
 <br>
 
 - **Softwares and tools**:
 
-    ![MySQL](https://img.shields.io/badge/mysql-%2300F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    ![RESTful](https://img.shields.io/badge/restful-%2393C5.svg?style=for-the-badge)
-    ![SEO](https://img.shields.io/badge/seo-%3CA046.svg?style=for-the-badge)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-</p>
+      ![MySQL](https://img.shields.io/badge/mysql-%2300F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+      ![RESTful](https://img.shields.io/badge/restful-%2393C5.svg?style=for-the-badge)
+      ![SEO](https://img.shields.io/badge/seo-%3CA046.svg?style=for-the-badge)
+      ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+  </p>
 
 <br>
 
