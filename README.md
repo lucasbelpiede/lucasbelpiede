@@ -47,10 +47,10 @@
 
 - **Softwares and tools**:
 
-      ![MySQL](https://img.shields.io/badge/mysql-%2300F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-      ![RESTful](https://img.shields.io/badge/restful-%2393C5.svg?style=for-the-badge)
-      ![SEO](https://img.shields.io/badge/seo-%3CA046.svg?style=for-the-badge)
-      ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![RESTful](https://img.shields.io/badge/restful-%2393C5.svg?style=for-the-badge)
+  ![SEO](https://img.shields.io/badge/seo-%3CA046.svg?style=for-the-badge)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
   </p>
 
