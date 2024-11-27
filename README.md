@@ -1,19 +1,19 @@
 <h1 align="center">
-    <b>Hi, i'm Lucas Ferraz</b>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    <b>Hi, I'm Lucas Ferraz</b>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 </h1>
 
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Salesforce+developer..&hearts;;Software+engineer,;Computer+scientist,;Love+to+learn+new+stuffs..<3">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-end+Developer+&hearts;;Software+Engineer;Computer+Scientist;Love+to+learn+new+stuffs... <3">
     </a>
 </p>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"></picture> **About me**
+## <picture><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2sxNjdsOGJjcnJsYjJ0bHJ3aDM5M2prcGpuYjd5am81aXNtbXgybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"></picture> **About me**
 
-- A passionate Salesforce developer
-- Postgraduate diploma in Software engineering
-- Bachelor's degree in Computer science
+- A passionate Front-end Developer
+- Postgraduate diploma in Software Engineering
+- Bachelor's degree in Computer Science
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -33,7 +33,7 @@
 
 <br>
 
-- **Front-end development**:
+- **Front-end Development**:
 
   ![Salesforce](https://img.shields.io/badge/salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
   ![React.js](https://img.shields.io/badge/react.js-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -45,7 +45,7 @@
 
 <br>
 
-- **Softwares and tools**:
+- **Softwares and Tools**:
 
   ![MySQL](https://img.shields.io/badge/mysql-%2300F.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![RESTful](https://img.shields.io/badge/restful-%2393C5.svg?style=for-the-badge)
@@ -58,7 +58,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> <b>GitHub stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>GitHub Stats</b>
 
 <br>
 
@@ -73,7 +73,7 @@
 
 ---
 
-## <b>Let's connect..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+## <b>Let's Connect!</b> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDI5amMwNm42cjNwNnY2Y2wxaDJobnd5c2QxY28wYWNvYzdzMjI1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rR2Ph2vkEPM1sn7Rld/giphy.gif" width="25">
 
 <br>
 
